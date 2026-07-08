@@ -3,17 +3,17 @@
 # 📚 Library Management System  
 ### Software Maintenance · QA Validation · PHP · MySQL
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![QA Testing](https://img.shields.io/badge/QA%20Testing-111827?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-6A5ACD?style=for-the-badge)
+[![PHP](https://img.shields.io/badge/Backend-PHP-purple)](#)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-blue)](#)
+[![SQL](https://img.shields.io/badge/Query-SQL-darkgreen)](#)
+[![QA](https://img.shields.io/badge/QA-Testing-black)](#)
+[![Regression](https://img.shields.io/badge/Testing-Regression-orange)](#)
 
 </div>
 
 ---
 
-## 🔍 Overview
+### 🔍 Overview
 
 This project is a **PHP-MySQL Library Management System** enhanced with software maintenance and quality-focused features.
 
@@ -28,7 +28,7 @@ The main focus is not just CRUD operations, but also:
 
 ---
 
-## ✨ Key Features
+### ✨ Key Features
 
 | Feature | Description |
 |---|---|
@@ -42,33 +42,38 @@ The main focus is not just CRUD operations, but also:
 
 ---
 
-## 🖼️ Screenshots
+### 🖼️ Screenshots
 
-### Active Books + Soft Delete
+#### Active Books + Soft Delete
 
-![Manage Books Active](screenshots/manage-books-active.png)
-
----
-
-### Deleted Books + Restore / Hard Delete
-
-![Manage Books Deleted](screenshots/manage-books-deleted.png)
+<p>
+  <img src="screenshots/manage-books-active.png" alt="Manage Books Active" width="650">
+</p>
 
 ---
 
-### Version History with Highlighted Changes
+#### Deleted Books + Restore / Hard Delete
 
-![Version History](screenshots/version-history.png)
+<p>
+  <img src="screenshots/manage-books-deleted.png" alt="Manage Books Active" width="650">
+</p>
+---
+
+#### Version History with Highlighted Changes
+<p >
+  <img src="screenshots/version-history.png" alt="Manage Books Active" width="650">
+</p>
 
 ---
 
-### Admin Activity Log
-
-![Admin Activity Log](screenshots/activity-log.png)
+#### Admin Activity Log
+<p >
+  <img src="screenshots/activity-log.png" alt="Manage Books Active" width="650">
+</p>
 
 ---
 
-## 🧪 QA / Testing Focus
+### 🧪 QA / Testing Focus
 
 | Area Tested | Validation Goal |
 |---|---|
@@ -83,7 +88,7 @@ The main focus is not just CRUD operations, but also:
 
 ---
 
-## ✅ Example QA Workflow
+### ✅ Example QA Workflow
 
 1. Add a new book record.
 2. Verify it appears under the **Active** tab.
@@ -98,7 +103,7 @@ The main focus is not just CRUD operations, but also:
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 | Category | Tools / Context |
 |---|---|
@@ -111,7 +116,7 @@ The main focus is not just CRUD operations, but also:
 
 ---
 
-## 👩‍💻 My Role
+### 👩‍💻 My Role
 
 I worked solo on maintaining and improving an existing GitHub-based Library Management System project.
 
@@ -127,29 +132,23 @@ My focus was on:
 
 ---
 
-## 🚀 How to Run Locally
+### 🚀 How to Run Locally
 
-1. Clone this repository.
-
-   `git clone https://github.com/SHREENITHI-TV/Library-Management-System-Software-Maintenance.git`
+1. Clone this repository.   `git clone https://github.com/SHREENITHI-TV/Library-Management-System-Software-Maintenance.git`
 
 2. Move the project folder into your XAMPP `htdocs` folder.
 
 3. Start **Apache** and **MySQL** from XAMPP.
 
-4. Open phpMyAdmin.
-
-   `http://localhost/phpmyadmin`
+4. Open phpMyAdmin.   `http://localhost/phpmyadmin`
 
 5. Import the project database file if provided.
 
-6. Open the project in your browser.
-
-   `http://localhost/LibraryManagementSystem/`
+6. Open the project in your browser.   `http://localhost/LibraryManagementSystem/`
 
 ---
 
-## 📌 Project Relevance
+### 📌 Project Relevance
 
 This project demonstrates practical experience in:
 
@@ -165,6 +164,6 @@ This project demonstrates practical experience in:
 
 <div align="center">
 
-### Built with a focus on reliability, maintainability, and software quality.
+#### Built with a focus on reliability, maintainability, and software quality.
 
 </div>
