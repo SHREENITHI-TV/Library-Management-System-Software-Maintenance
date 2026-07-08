@@ -55,20 +55,20 @@ The main focus is not just CRUD operations, but also:
 #### Deleted Books + Restore / Hard Delete
 
 <p>
-  <img src="screenshots/manage-books-deleted.png" alt="Manage Books Active" width="650">
+  <img src="screenshots/manage-books-deleted.png" alt="Manage Books Deleted" width="650">
 </p>
 ---
 
 #### Version History with Highlighted Changes
 <p >
-  <img src="screenshots/version-history.png" alt="Manage Books Active" width="650">
+  <img src="screenshots/version-history.png" alt="Version History width="650">
 </p>
 
 ---
 
 #### Admin Activity Log
 <p >
-  <img src="screenshots/activity-log.png" alt="Manage Books Active" width="650">
+  <img src="screenshots/activity-log.png" alt="Activity Log" width="650">
 </p>
 
 ---
