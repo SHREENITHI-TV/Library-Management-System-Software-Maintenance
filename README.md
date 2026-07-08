@@ -100,27 +100,30 @@ The main focus is not just CRUD operations, but also:
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
+| Category | Tools / Context |
 |---|---|
 | Frontend | HTML, CSS, Bootstrap |
 | Backend | PHP |
 | Database | MySQL |
 | Local Server | XAMPP / Apache |
-| Version Control | Git, GitHub |
+| Development Environment | Localhost, phpMyAdmin, Browser Testing |
 | Testing Focus | Functional Testing, Smoke Testing, Regression Testing, Backend Validation |
 
 ---
 
 ## 👩‍💻 My Role
 
-I worked on this project as a **Test Engineer / Software Maintenance contributor**, focusing on:
+I worked solo on maintaining and improving an existing GitHub-based Library Management System project.
 
+My focus was on:
+
+- understanding the existing PHP-MySQL codebase
+- making maintenance-focused feature changes
 - validating backend CRUD workflows
 - testing soft delete, restore, and hard delete behavior
 - verifying version history and activity logs
-- checking database consistency
-- supporting regression and smoke testing
-- improving maintainability and system reliability
+- checking database consistency through phpMyAdmin
+- supporting regression and smoke testing after changes
 
 ---
 
